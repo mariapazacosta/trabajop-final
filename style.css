@@ -1,0 +1,248 @@
+
+
+.color-tabla {
+color: black;
+    background-color: rgb(177, 245, 222);
+}
+
+
+.titulo-importante {
+    color:white;
+    background-color:black;
+    text-align: center;
+    text-transform: uppercase;
+    font-family:'Times New Roman', Times, serif;
+    width: 100%;
+    font-size:medium;
+    }
+
+.dias-horarios {
+    color: black;
+    background-color: rgb(176, 118, 230);
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.horarios-dias {
+    color: black;
+    background-color: darksalmon;
+    font-style: italic;
+}
+
+
+.cuerpo-titulo {
+    background-color: black;
+font-family:'Courier New', Courier, monospace;
+
+}
+
+
+
+.nav ul{
+    display: flex;
+    list-style:none;
+    padding: 0;
+    flex-direction: row;
+    gap: 10px;
+    width:auto;
+    justify-content: center;
+    margin: auto;
+}
+ 
+
+.fondo {
+    color:white;
+    width: 100%;
+    height: 14cm;
+    background-image: url("./img/ffh.jpg");
+    background-position-x: center;
+    background-position-y: center;
+   background-repeat: repeat-x repeat-y;
+  
+}
+
+.pie-pagina {
+    padding-bottom: 10px;
+    margin-top: 10px ;
+    padding-top:.5% ;
+    text-align: end;
+    color: black;
+    background-color:rgb(255, 232, 232);
+    text-transform:none;
+    font-size: 13px;
+    width: 100%;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
+
+.borde-formulario {
+    text-align: center;
+    text-transform: capitalize;
+    color: black;
+    margin-top: 70px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 15px;
+    height: 100%;
+}
+
+.body{
+   background-color: rgb(202, 201, 198);
+   
+   }
+
+.a {
+    text-decoration: none;
+    color:black;
+text-transform:uppercase;
+font-weight: bold;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.color-pagina {
+    color:white;
+    background-color:black;
+    text-align: center;
+text-transform:capitalize;
+font-size: smaller;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+border: 2px solid;
+}
+
+.tabla{
+    color: black;
+    background-color:rgb(224, 187, 187);
+}
+
+.div{ 
+    display: flex;
+    justify-content: center;
+   }
+
+.div img{
+   height: 250px;
+   width: 250px;
+}
+
+.articulo{
+display: flex;
+gap: 5px;
+}
+
+.section{
+height: 225px;
+}
+
+.sect{
+    width: 212.5px;
+}
+
+.seccion{
+
+    color: black;
+    background-color: rgb(250, 220, 247);
+text-align: center;
+text-transform: capitalize;
+font-weight:bold;
+font-size:large;
+margin-bottom:5px;
+}
+
+
+.footer{
+color:white;
+
+}
+
+.instagram{
+    text-decoration: none;
+    color:black;
+}
+
+.icono{
+    height: 20px;
+    width: 20px;
+margin: 0%;
+}
+
+.bolsosmn{
+    color:white;
+    background-color:black;
+    text-align: center;
+    font-size:large;
+    text-transform: uppercase;
+}
+
+.fondo-color{
+    background-color:rgb(168, 130, 151);
+}
+
+.carousel-chico{
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.color-de-fondo{
+    background-color: rgb(160, 12, 56);
+}
+
+.bg-fondo{
+    background-color: rgb(190, 221, 224);
+}
+
+.fondo-ac{
+    background-color: rgb(190, 3, 103);
+}
+
+.fondo-mc{
+    background-color: rgb(196, 100, 100);
+}
+
+.fondo-r{
+    background-color: rgb(214, 141, 212);
+}
+
+.fondo-ac4{
+    background-color: rgb(104, 161, 163);
+}
+
+.card-inner{
+    background-color: white !important;
+
+}
+
+.card-bg-none{
+    background-color: transparent !important;
+}
+
+.card-tamaño{
+    padding: 1px;
+}
+
+.card-t{
+height: 152px;
+}
+
+.fotoi{
+    height: 150px;
+    padding-top: 5px;
+}
+
+.centrar{
+    text-align: center;
+    margin: auto;
+    color: white;
+    background-color: rgb(122, 55, 86);
+    text-transform :uppercase;
+    font-size: large;
+}
+
+.whatsapp{
+    color: black;
+}
